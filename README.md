@@ -1,5 +1,5 @@
 # statistical_test_sample
-“ŒvŒŸ’è‚ÌƒTƒ“ƒvƒ‹
+çµ±è¨ˆæ¤œå®šã®ã‚µãƒ³ãƒ—ãƒ«
 
 <!-- 
 ## License
